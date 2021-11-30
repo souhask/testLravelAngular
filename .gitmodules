@@ -1,0 +1,3 @@
+[submodule "auth-test"]
+	path = auth-test
+	url = C:/Program Files/Git/auth-test
